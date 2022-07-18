@@ -31,6 +31,19 @@ Clique no clique no texto da tarefa para concluir.
 ### 👀 Preview
 Veja o resultado por meio de prints 🤓
 
+* Adicionando 
+![image](https://user-images.githubusercontent.com/90478654/179514759-b0f7736f-b398-486a-b745-a2af0e01d27c.png)
+
+* Concluindo ou removendo
+![image](https://user-images.githubusercontent.com/90478654/179515015-e8fe6e9f-31a5-49f7-ad8a-683069044bb9.png)
+
+* Mobile
+![une-surprise surge sh_(iPhone 12 Pro)](https://user-images.githubusercontent.com/90478654/179516259-c521ff78-adf4-43f7-9288-4c205ae6b012.png)
+
+![une-surprise surge sh_(iPhone 12 Pro) (1)](https://user-images.githubusercontent.com/90478654/179516359-9c7b3744-c868-426b-b0ea-83e2e42cdc22.png)
+
+
+
 
 
 
