@@ -42,7 +42,8 @@ Veja o resultado por meio de prints 🤓
 ---
 
 * Mobile
-![une-surprise surge sh_(iPhone 12 Pro) (5)](https://user-images.githubusercontent.com/90478654/179519627-16790559-7a77-44e5-826c-69edf50928f8.png)
+<img  src='https://user-images.githubusercontent.com/90478654/179519627-16790559-7a77-44e5-826c-69edf50928f8.png'
+     style="width:200px;/>
 
 ---
 
