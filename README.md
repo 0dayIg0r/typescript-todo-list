@@ -42,10 +42,10 @@ Veja o resultado por meio de prints 🤓
 ---
 
 * Mobile
-![Uploading une-surprise.surge.sh_(iPhone 12 Pro) (2).png…]()
+![une-surprise surge sh_(iPhone 12 Pro) (5)](https://user-images.githubusercontent.com/90478654/179519627-16790559-7a77-44e5-826c-69edf50928f8.png)
 
 ---
-![une-surprise surge sh_(iPhone 12 Pro) (3)](https://user-images.githubusercontent.com/90478654/179519186-50feaf15-4c53-45bf-8ae5-73e5b2d38aa5.png)
+
 
 
 
