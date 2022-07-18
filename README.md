@@ -32,16 +32,20 @@ Clique no clique no texto da tarefa para concluir.
 Veja o resultado por meio de prints 🤓
 
 * Adicionando 
+![image](https://user-images.githubusercontent.com/90478654/179518686-1df13228-6751-4e29-a2ae-b15ef798d579.png)
 
 ---
 
 * Concluindo ou removendo
+![image](https://user-images.githubusercontent.com/90478654/179518725-f5ad4546-3d6f-4b88-aa68-bfbb48551d2f.png)
 
 ---
 
 * Mobile
+![Uploading une-surprise.surge.sh_(iPhone 12 Pro) (2).png…]()
 
 ---
+![une-surprise surge sh_(iPhone 12 Pro) (3)](https://user-images.githubusercontent.com/90478654/179519186-50feaf15-4c53-45bf-8ae5-73e5b2d38aa5.png)
 
 
 
